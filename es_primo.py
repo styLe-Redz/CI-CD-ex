@@ -1,4 +1,4 @@
-def es_primo(numero):
+def function_es_primo(numero):
     if numero <= 1:
         return False
     if numero <= 3:

@@ -1,5 +1,4 @@
-import pytest
-from CI-CD-ex es_primo
+from es_primo import function_es_primo
 
 def test_es_primo():
     assert es_primo(2) == True
