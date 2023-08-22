@@ -16,6 +16,3 @@ def test_numeros_negativos():
 def test_numeros_pequenos():
     assert function_es_primo(0) == False
     assert function_es_primo(1) == False
-
-if __name__ == "__main__":
-    pytest.main()
